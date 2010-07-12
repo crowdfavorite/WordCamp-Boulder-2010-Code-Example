@@ -1,0 +1,9 @@
+# WordCamp Twitter
+
+The file `wc-twitter.php` is a demonstration plugin created for and during WordCamp Boulder 2010.
+
+The purpose of this plugin is to demonstrate the basics of creating widgets and accessing remote RSS feeds.
+
+# Installing
+
+Add the `wc-twitter.php` file to your /wp-content/plugins or mu-plugins directory.
